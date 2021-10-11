@@ -1,0 +1,17 @@
+09:55 09/11/2015
+
+L'utilisation de ce programme demande d'importer l'ActiveX : Adob Acrobat 
+
+
+dans le menu de DELPHI
+
+Composants 
+          Importer un contôle AxtiveX
+
+
+
+Importation de l'Activex
+
+Adob Acrobat 
+
+classes :  TAcroPDF
